@@ -8,13 +8,21 @@ Due to academic dishonesty, we want to find these figures, and replace the score
 We want to ensure that this does not affect the previous data. After, our supervisor has asked to repeat the school analysis. 
 
 # Results
+1. How is the district summary affected?
+Image: 
+Description:
+2. How is the school summary affected?
+Image: 
+Description:
+3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Image: 
+Description:
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+7. How does replacing the ninth-grade scores affect the following:
+  1. Math and reading scores by grade
+  2. Scores by school spending
+  3. Scores by school size
+  4. Scores by school type
+
+# Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
