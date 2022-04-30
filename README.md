@@ -2,6 +2,10 @@
 # Overview of school district analysis 
 Expanding on the past PyCitySchools pandas-Py activity. 
 A school district 
+Our new objective: To help the school board find the faulty reading and math scores for Thomas High School. 
+Due to academic dishonesty, we want to find these figures, and replace the score with NaNs. 
+We want to ensure that this does not affect the previous data. After, our supervisor has asked to repeat the school analysis. 
+
 # Results
 
 How is the district summary affected?
