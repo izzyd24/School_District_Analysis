@@ -32,18 +32,26 @@ The intent is quite clear---by increasing their percentage points in key categor
   A. Math and reading scores by grade
     Image Old: 
     Image New:
+    We were able to remove the initial 83.6 math average and 83.7 reading average. Both figures contributed to an unclean and inaccurate dataset for the school district analysis. By removing and replacing as NaN, we restore the integrity of the data, and are able to move towards repeating our analysis. 
    
   B. Scores by school spending
     Image Old: 
     Image New:
+    We did not see much of a spending impact (as we intially predicted). For instance, through our spending ranges, we initally thought to see Thomas High fall significantly, but it is placed in the $630-644 bin for scores by school spending. 
     
   C. Scores by school size
     Image Old: 
     Image New:
+    Once again, we see little imact here---Thomas High is still considered a mid/medium sized school, even after dropping some of the scores as mentioned above. 
     
   D. Scores by school type
     Image Old: 
     Image New:
+    Thomas High is still classified as a "Charter", and this figure would likely not be applicable according to the number of datapoints added/removed. 
 
 # Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+In general we see four major changes in the updated analysis: 
+1. The passing rate for Thomas High (overall % passing) fell from 91 to 65%
+2. Thomas High saw a steep decline in its math and reading averages, which explains the drop in passing percentages. 
+3. By adding the Nan to the report, we have succsefully removed the corrupt datapoints. This can be found at the 9th grade level. 
+4. Thomas High ranks #8 instead of its #2 false rank prior to the repeated analysis. 
