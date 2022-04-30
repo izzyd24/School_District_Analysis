@@ -1,7 +1,8 @@
 # School_District_Analysis
 # Overview of school district analysis 
 Expanding on the past PyCitySchools pandas-Py activity. 
-A school district 
+A school district collects the standarized scores for math and reading. Maria is the chief data scientist, we are assisting her. 
+The analysis will inform the school board of how to distribute the spending for the next school year.
 Our new objective: To help the school board find the faulty reading and math scores for Thomas High School. 
 Due to academic dishonesty, we want to find these figures, and replace the score with NaNs. 
 We want to ensure that this does not affect the previous data. After, our supervisor has asked to repeat the school analysis. 
